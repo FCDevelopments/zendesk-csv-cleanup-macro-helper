@@ -1,0 +1,8 @@
+ticket_id,subject,description,status,priority,tags,macro_used
+4001, Password reset needed ,User needs password reset after device change,open,high,"password;reset;device",
+4002, Password reset needed ,Same issue different user,pending,high,"password;reset",
+4003,Refund request, Customer wants refund for duplicate order ,pending,urgent,"billing;refund",Refund Follow-Up
+4004,VPN issue,User cannot connect to VPN from home,open,medium,"vpn;remote",
+4005,,Empty subject row,open,low,,
+4006,Duplicate of ticket 4001,Same as another ticket,solved,low,,
+4007,  ,   ,open,medium,,
