@@ -1,0 +1,2 @@
+# No external dependencies required for MVP
+pytest>=8.0.0

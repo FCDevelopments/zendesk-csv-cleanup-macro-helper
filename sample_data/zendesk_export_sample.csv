@@ -1,0 +1,4 @@
+ticket_id,subject,description,status,priority,tags,macro_used
+3001, Password reset needed ,User needs password reset after device change,open,high,"password;reset;device","
+3002,Refund request, Customer wants refund for duplicate order ,pending,urgent,"billing;refund",Refund Follow-Up
+3003,VPN issue,User cannot connect to VPN from home,open,medium,"vpn;remote","
